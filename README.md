@@ -2,29 +2,6 @@
 
 ## Overview
 This project simulates various operating system algorithms including CPU scheduling, memory management, disk scheduling, and deadlock avoidance.
-
-## Directory Structure
-
-
-
-
-
-## How to Build
-1. Create a build directory:
-    ```
-    mkdir build && cd build
-    ```
-2. Run CMake to configure the project:
-    ```
-    cmake ..
-    ```
-3. Build the project:
-    ```
-    make
-    ```
-4. Run the executable:
-    ```
-    ./os_simulation
     ```
 
 ## Features
@@ -52,5 +29,3 @@ This project simulates various operating system algorithms including CPU schedul
 ## Contribution
 Feel free to open issues or create pull requests if you find any bugs or have suggestions for new features.
 
-## License
-This project is licensed under the MIT License.
